@@ -49,16 +49,6 @@ Atualmente atuo com projetos envolvendo:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vinirmbrozz&show_icons=true&theme=github_dark&cache_seconds=86400"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinirmbrozz&layout=compact&theme=github_dark&cache_seconds=86400"/>
-</div>
-
-
----
-
 ## 📌 O que eu busco
 
 - Projetos desafiadores em Back-End
