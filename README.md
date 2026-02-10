@@ -1,5 +1,5 @@
 ### Olá, Vinícius Rodrigues!
-Analista de Dados | Back-End 👨🏻‍💻
+Engenheiro de Computação | Back-End 👨🏻‍💻
 <div align="">
   <a href="https://github.com/vinirmbrozz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinirmbrozz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
